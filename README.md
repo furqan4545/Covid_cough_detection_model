@@ -1,1 +1,3 @@
 ###  GIT SUCKS! many times....
+##### There are no weights, so you have to train it yourelf
+##### This code is soul property of team COVID-19
