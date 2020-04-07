@@ -8,4 +8,3 @@ We are developing artificial intelligence algorithms, which can be used to deter
 ## Web App
 
 ## Acknowledgements
-### NED University
